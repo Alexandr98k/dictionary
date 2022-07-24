@@ -1,16 +1,16 @@
-# Таблица имён насыщенности шрифта
+# Таблиця імен насиченості шрифту
 
-| font-weight  | По-русски              | По-английски
+| font-weight  | Українською            | Англійською
 | ------------ | ---------------------- | ------------
 | 100          | Тонкий                 | Thin
-| 200          | Сверхлёгкий            | Extra Light, Ultra Light
-| 300          | Лёгкий                 | Light
-| 400 (normal) | Нормальный, регулярный | Normal, Book, Regular
-| 500          | Средний                | Medium
-| 600          |                        | Semi Bold, Demi Bold
-| 700 (bold)   | Полужирный             | Bold
-| 800          |                        | Extra Bold, Ultra Bold
-| 900          | Жирный                 | Black, Heavy
+| 200          | Супер-легкий           | Extra Light, Ultra Light
+| 300          | Легкий                 | Light
+| 400 (normal) | Звичайний              | Normal, Book, Regular
+| 500          | Середній               | Medium
+| 600          | Напів-жирний           | Semi Bold, Demi Bold
+| 700 (bold)   | Жирний                 | Bold
+| 800          | Супер-жирний           | Extra Bold, Ultra Bold
+| 900          | Масивний               | Black, Heavy
 
-- [Значения из спецификации CSS Fonts Module Level 3](https://www.w3.org/TR/css-fonts-3/#font-weight-prop)
-- [Русскоязычная терминология из справочника ParaType](https://rus.paratype.ru/catalog-chapter/n-023ac292#weight)
+- [Значення з специфікації CSS Fonts Module Level 3](https://www.w3.org/TR/css-fonts-3/#font-weight-prop)
+- [Москальською мовою термінологія довідника ParaType](https://rus.paratype.ru/catalog-chapter/n-023ac292#weight)
